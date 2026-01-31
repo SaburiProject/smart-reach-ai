@@ -39,5 +39,4 @@ The system utilizes a modern AI stack to process data efficiently:
     streamlit run app/main.py
     ```
 
-## 📄 License
-This project is licensed under the MIT License.
+
